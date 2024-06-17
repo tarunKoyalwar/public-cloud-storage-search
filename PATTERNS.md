@@ -18,12 +18,16 @@ being show as separate tabs in the UI.
 | firebase     | Firebase Storage (Google Cloud)    |
 | gcp          | Google's Cloud Storage             |
 | ibm          | IBM Cloud Object Storage           |
+| ionos        | IONOS S3 Object Storage            |
 | linode       | Linode Object Storage              |
 | mailru       | Mail.ru Cloud Services (MCS)       |
 | rackspace    | Rackspace Files                    |
-| yandex       | Yandex Cloud                       |
+| supabase     | Supabase Storage                   |
+| tigris       | Tigris Data                        |
 | vultr        | Vultr Object Storage               |
 | wasabi       | Wasabi Cloud Object Storage        |
+| yandex       | Yandex Cloud                       |
+| zadara       | Zadara Storage                     |
 
 # Search Patterns
 These are what drives the search engine, they are entered in the "Setup" section
@@ -56,13 +60,17 @@ example: "site:rackcdn.com".
 | filebase     | firebasestorage.googleapis.com/*           | [site:firebasestorage.googleapis.com](https://www.google.com/search?q=site%3Afirebasestorage.googleapis.com)
 | gcp          | \*.storage.googleapis.com/*                | [site:storage.googleapis.com](https://www.google.com/search?q=site%3Astorage.googleapis.com)
 | ibm          | \*.cloud-object-storage.appdomain.cloud/*  | [site:cloud-object-storage.appdomain.cloud](https://www.google.com/search?q=site%3Acloud-object-storage.appdomain.cloud)
+| ionos        | \*.ionoscloud.com/*                        | [site:ionoscloud.com](https://www.google.com/search?q=site%3Aionoscloud.com)
 | linode       | \*.us-east-1.linodeobjects.com/*           | [site:us-east-1.linodeobjects.com](https://www.google.com/search?q=site%3Aus-east-1.linodeobjects.com)
 | mailru       | \*.hb.bizmrg.com/*                         | [site:hb.bizmrg.com](https://www.google.com/search?q=site%3Ahb.bizmrg.com)
 | rackspace    | \*.clouddrive.com/*                        | [site:clouddrive.com](https://www.google.com/search?q=site%3Aclouddrive.com)
 | rackspace    | \*.rackcdn.com/*                           | [site:rackcdn.com](https://www.google.com/search?q=site%3Arackcdn.com)
-| yandex       | \*.storage.yandexcloud.net/*               | [site:storage.yandexcloud.net](https://www.google.com/search?q=site%3Astorage.yandexcloud.net)
+| supabase     | \*.supabase.co/*                           | [site:supabase.co](https://www.google.com/search?q=site%3Asupabase.co)
+| tigris       | \*.storage.tigris.dev/*                    | [site:storage.tigris.dev](https://www.google.com/search?q=site%3Astorage.tigris.dev)
 | vultr        | \*.vultrobjects.com/*                      | [site:vultrobjects.com](https://www.google.com/search?q=site%3Avultrobjects.com)
 | wasabi       | \*.s3.wasabisys.com/*                      | [site:s3.wasabisys.com](https://www.google.com/search?q=site%3As3.wasabisys.com)
+| yandex       | \*.storage.yandexcloud.net/*               | [site:storage.yandexcloud.net](https://www.google.com/search?q=site%3Astorage.yandexcloud.net)
+| zadara       | \*.zadarazios.com/*                        | [site:zadarazios.com](https://www.google.com/search?q=site%3Azadarazios.com)
 
 # Feedback and changes
 Feel free to use Github issues and pull requests to suggest changes or

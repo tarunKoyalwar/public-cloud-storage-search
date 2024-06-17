@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2024-06-16
+### Added
+- Added patterns for Tigris, Supabase, Zadara and IONOS
+
 ## 2022-11-06
 ### Added
 - Added patterns for Clever Cloud and CloudFlare R2
